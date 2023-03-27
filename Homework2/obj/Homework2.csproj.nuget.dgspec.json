@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AleCristea\\OneDrive - ENDAVA\\Desktop\\Training\\Homework2\\Homework2\\Homework2.csproj": {}
+    "C:\\Users\\AleCristea\\OneDrive - ENDAVA\\Desktop\\c#\\Homework2\\Homework2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AleCristea\\OneDrive - ENDAVA\\Desktop\\Training\\Homework2\\Homework2\\Homework2.csproj": {
+    "C:\\Users\\AleCristea\\OneDrive - ENDAVA\\Desktop\\c#\\Homework2\\Homework2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AleCristea\\OneDrive - ENDAVA\\Desktop\\Training\\Homework2\\Homework2\\Homework2.csproj",
+        "projectUniqueName": "C:\\Users\\AleCristea\\OneDrive - ENDAVA\\Desktop\\c#\\Homework2\\Homework2.csproj",
         "projectName": "Homework2",
-        "projectPath": "C:\\Users\\AleCristea\\OneDrive - ENDAVA\\Desktop\\Training\\Homework2\\Homework2\\Homework2.csproj",
+        "projectPath": "C:\\Users\\AleCristea\\OneDrive - ENDAVA\\Desktop\\c#\\Homework2\\Homework2.csproj",
         "packagesPath": "C:\\Users\\AleCristea\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AleCristea\\OneDrive - ENDAVA\\Desktop\\Training\\Homework2\\Homework2\\obj\\",
+        "outputPath": "C:\\Users\\AleCristea\\OneDrive - ENDAVA\\Desktop\\c#\\Homework2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\AleCristea\\AppData\\Roaming\\NuGet\\NuGet.Config",

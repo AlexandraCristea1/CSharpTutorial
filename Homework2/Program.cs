@@ -33,11 +33,11 @@ public class Homework2
 
     private static void Problem3()
     {
-        bool isPrime = true;
-        int[] primeNumbers = new int[400];
+        IList<int> primes = new List<int>();
 
         for (int i = 2; i <= 300; i++)
         {
+            bool isPrime = true;
             for (int j = 2; j <= 300; j++)
             {
                 if (i != j && i % j == 0)
@@ -46,12 +46,13 @@ public class Homework2
                     break;
                 }
             }
+
             if (isPrime)
             {
-                Console.Write(i + " ");
+                primes.Add(i);
             }
-            isPrime = true;
         }
+        Console.Write(primes[46]);
     }
 
     private static void Problem4()
